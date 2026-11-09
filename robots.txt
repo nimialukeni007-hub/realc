@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nimialukeni007-hub.github.io/realc/sitemap.xml
